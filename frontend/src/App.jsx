@@ -7,7 +7,7 @@ import User from "./pages/User.jsx";
 import NavBar from "./components/NavBar.jsx"
 import "./App.css";
 
-import "dotenv/config.js"
+//import "dotenv/config.js"
 
 
 const App = () => {
