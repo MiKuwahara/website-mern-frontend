@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://website-mern-backend-production.up.railway.app/user";
+const API_URL = "http://localhost:5555/user";
 
 // Register user
 const register = async (userData) => {
